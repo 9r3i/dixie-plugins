@@ -1,0 +1,19 @@
+/* Plugin for Dixie CMS
+ * Name     : Background Change
+ * Creator  : Luthfie
+ * Email    : Luthfie@y7mail.com
+ * Filename : bg_change.css
+ */
+
+
+body{
+  z-index:0 !important;
+}
+.background-change{
+  z-index:1 !important;
+  margin:0px;
+  padding:0px;
+  width:100%;
+  height:100%;
+  position:absolute;
+}
