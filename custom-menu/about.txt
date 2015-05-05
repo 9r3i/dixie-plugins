@@ -1,0 +1,7 @@
+Plugin Name === Custom Menu
+Plugin URI  === https://github.com/9r3i/plugins/tree/master/custom-menu
+Author      === Luthfie
+Author URI  === http://n8ro.hol.es/?id=profile
+Version     === 1.0
+Description === Create your own menu.\n\nUsage: @[custom_menu]\nPlace the tag above into text sidebar.
+Dixie Compare Version === 2.2.0

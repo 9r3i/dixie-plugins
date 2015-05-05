@@ -1,0 +1,170 @@
+/* Plugin for Dixie CMS
+ * Name     : Custom Menu
+ * Creator  : Luthfie
+ * Email    : Luthfie@y7mail.com
+ * Filename : style.css 
+ */
+
+
+.custom-menu{
+  margin:0px;
+  padding:5px;
+  background-color:#fff;
+  width:auto;
+}
+.custom-menu-menu{
+  margin:0px 0px 10px;
+  padding:5px;
+  background-color:#f88;
+}
+.custom-menu-menu-list{
+  display:inline-block;
+  background-color:#f88;
+  color:#fff;
+  margin:0px;
+  padding:5px 7px;
+}
+.custom-menu-menu-list:hover{
+  background-color:#fff;
+  color:#f88;
+}
+
+.custom-menu-input-each{margin:0px;padding:5px;}
+.custom-menu-input-label{display:inline-block;width:20%;text-align:right;margin-right:5px;}
+.custom-menu-input-point{display:inline-block;width:60%;}
+.custom-menu-input-input{
+  display:inline-block;width:100%;
+  margin:0px;
+  padding:5px;
+  border:1px solid #999;
+}
+
+
+#custom_menu{
+  margin:-10px -5px;
+  padding:0px;
+  clear:both;
+  font-size:small;
+}
+#custom_menu li{
+  list-style:none outside none;
+}
+#custom_menu li ul{
+  display:none;
+  list-style:none;
+  padding:0px;
+  width:210px;
+}
+#custom_menu li:hover > ul{
+  display:block;
+}
+#custom_menu_parent{
+  margin:0px 0px 20px;
+  padding:0px;
+  width:auto;
+  list-style:none;
+  border-top:1px solid #ccc;
+}
+#custom_menu_child{
+  border-top:1px solid #ccc;
+}
+#custom_menu_grand_child{
+  border-top:1px solid #ccc;
+}
+.custom-menu-parent,.custom-menu-child,.custom-menu-grand-child{
+  display:block;
+  margin:0px;
+  padding:10px;
+  background-color:#9BBD59;
+  color:#fff;
+  border-bottom:1px solid #ccc;
+}
+.custom-menu-child,.custom-menu-grand-child{
+  background-color:#88aa44;
+  color:#fff;
+}
+.custom-menu-parent:hover,.custom-menu-child:hover,.custom-menu-grand-child:hover{
+  background-color:#799b37;
+  color:#fff;
+  padding-left:15px;
+  text-shadow: 0 0;
+}
+
+
+.custom-menu-parent{
+  
+}
+.custom-menu-child{
+  
+}
+.custom-menu-grand-child{
+  
+}
+
+@media screen and (min-width:1000px){
+  #custom_menu_parent{
+    width:245px;
+  }
+  #custom_menu li ul{
+    position:absolute;
+    margin:-38px 0px 0px 245px;
+    width:245px;
+  }
+}
+@media screen and (max-width:999px){
+  #custom_menu li ul{
+    position:absolute;
+    margin:-38px 0px 0px 245px;
+    width:245px;
+  }
+  #custom_menu_parent{
+    width:245px;
+  }
+}
+@media screen and (max-width:909px){
+  #custom_menu li ul{
+    position:absolute;
+    margin:-38px 0px 0px 195px;
+    width:195px;
+  }
+  #custom_menu_parent{
+    width:195px;
+  }
+}
+@media screen and (max-width:709px){
+  #custom_menu li ul{
+    position:absolute;
+    margin:-38px 0px 0px 145px;
+    width:145px;
+  }
+  #custom_menu_parent{
+    width:145px;
+  }
+}
+@media screen and (max-width:599px){
+  #custom_menu li ul{
+    position:relative;margin:0px;width:100%;border:0px none;
+  }
+  #custom_menu_parent{
+    width:100%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
