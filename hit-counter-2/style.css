@@ -1,0 +1,41 @@
+/* Plugin for Dixie CMS
+ * Name     : Hit Counter 2
+ * Creator  : Luthfie
+ * Email    : Luthfie@y7mail.com
+ * Filename : style.css
+ */
+
+#hit_counter_sidebar{
+  margin:0px;
+  padding:0px;
+}
+.hit-counter-content{
+  margin:10px;
+  padding:10px;
+  border-radius:10px;
+  border:1px solid #8cf;
+  font-size:medium;
+  text-align:center;
+  color:#48c;
+  background-color:#fff;
+  box-shadow: inset 0px 0px 10px 0px rgba(136,204,255,0.7);
+  text-shadow:1px 1px 0px #8cf, -1px -1px 0px #8cf;
+  -moz-text-shadow:1px 1px 0px #8cf, -1px -1px 0px #8cf;
+  -webkit-text-shadow:1px 1px 0px #8cf, -1px -1px 0px #8cf;
+  -o-text-shadow:1px 1px 0px #8cf, -1px -1px 0px #8cf;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=225, Color='#88ccff')";
+  filter:progid:DXImageTransform.Microsoft.Shadow(Strength=1, Direction=225, Color='#88ccff');
+  cursor:default;
+}
+.hit-counter-content:hover{
+  background-color:#48c;
+  color:#fff;
+}
+.hit-counter-label{
+  display:inline-block;
+}
+.hit-counter-digit{
+  display:inline-block;
+  margin-left:5px;
+}
+
