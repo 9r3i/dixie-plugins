@@ -1,5 +1,5 @@
 Plugin Name === Dixie3 Updater
-Plugin URI  === http://n8ro.hol.es/?id=tags&slug=plugins
+Plugin URI  === https://github.com/9r3i/plugins/tree/master/dixie3-updater
 Author      === Luthfie
 Author URI  === http://n8ro.hol.es/?id=profile
 Version     === 1.0
