@@ -1,0 +1,41 @@
+/* Plugin for Dixie CMS
+ * Name     : Website Contact
+ * Creator  : Luthfie
+ * Email    : Luthfie@y7mail.com
+ * Filename : style.css
+ */
+
+.web-contact-review{
+  margin:0px;
+  padding:0px;
+  background-color:#fff;
+  font-size:small;
+  border-bottom:1px solid #999;
+}
+.web-contact-review-each{
+  border-top:1px solid #999;
+  padding:10px;
+  margin:0px;
+}
+.web-contact-review-time{
+  border-top:1px solid #999;
+  color:#777;
+  margin-top:5px;
+  padding-top:5px;
+}
+.web-contact-review-next{
+  border-top:1px solid #999;
+  padding:10px;
+  margin:0px;
+  text-align:center;
+  color:#333;
+}
+.web-contact-review-next:hover{
+  background-color:#dde;
+}
+
+.web-contact-review-each hr{
+  border-top:1px solid #999;
+  display:block;
+  height:0px;
+}
