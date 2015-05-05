@@ -3,5 +3,5 @@ Plugin URI  === https://github.com/9r3i/plugins/tree/master/web-contact
 Author      === Luthfie
 Author URI  === http://n8ro.hol.es/?id=profile
 Version     === 1.0
-Description === Contact page is important for a website, so now I create this one to create your own Contact Page.
+Description === Contact page is important for a website, so now I create this one to create your own Contact Page.\nThis plugin is to create a contact form in the specific url and send it to the specific email.
 Dixie Compare Version === 2.2.0
