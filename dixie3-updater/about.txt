@@ -1,0 +1,7 @@
+Plugin Name === Dixie3 Updater
+Plugin URI  === http://n8ro.hol.es/?id=tags&slug=plugins
+Author      === Luthfie
+Author URI  === http://n8ro.hol.es/?id=profile
+Version     === 1.0
+Description === This plugin is to manage update to version 3 of Dixie, taken from the new server.
+Dixie Compare Version === 2.0.0
