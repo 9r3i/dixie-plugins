@@ -1,0 +1,7 @@
+ram_url===yes
+url_to_image===no
+ram_tags===no
+use_tag_url===no
+ram_tags_url===?id=tags&slug=
+ram_split_words===no
+ram_split_words_length===37
