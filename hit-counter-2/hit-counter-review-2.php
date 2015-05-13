@@ -31,7 +31,7 @@ $hit_table = 'hit_counter2';
 $select = $ldb->select($hit_table,'type=hit_counter2');
 $count = (isset($select[0]['count']))?$select[0]['count']:0;
 $count = number_format($count,0,'.',',');;
-$visitor_table = 'visitor';
+$visitor_table = 'visitor2';
 $visitors = $ldb->select($visitor_table);
 $count_visitors = number_format(count($visitors),0,'.',',');
   $next = (isset($_GET['next']))?$_GET['next']:0;

@@ -8,10 +8,10 @@
 
 function hit_counter2_action_get_data($globals){
   global $ldb;
-  $the_table = 'visitor';
+  $the_table = 'visitor2';
   $hit_table = 'hit_counter2';
   $write = (is_login())?false:true;
-  $write = (get_plugin_option('hit-counter','include')=='yes')?true:false;
+  $write = (get_plugin_option('hit-counter-2','include')=='yes')?true:false;
   if(ldb()&&isset($globals['_SERVER']['HTTP_USER_AGENT'],$globals['_SERVER']['REMOTE_ADDR'])&&$write==true){
     $user_agent = $globals['_SERVER']['HTTP_USER_AGENT'];
     $remote_addr = $globals['_SERVER']['REMOTE_ADDR'];
