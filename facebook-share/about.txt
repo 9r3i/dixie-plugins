@@ -1,6 +1,6 @@
 Plugin Name === Facebook Share
 Plugin URI  === https://github.com/9r3i/plugins/tree/master/facebook-share
 Author      === Luthfie
-Author URI  === http://n8ro.hol.es/?id=profile
+Author URI  === http://luthfie.hol.es/?id=profile
 Version     === 2.0
 Description === Facebook Share plugin is a social plugin from Facebook. Included by Luthfie from Facebook Developers' social plugins with SDK Joey.

@@ -1,6 +1,6 @@
 Plugin Name === Background Changer
 Plugin URI  === https://github.com/9r3i/plugins/tree/master/Background_Change
 Author      === Luthfie
-Author URI  === http://n8ro.hol.es/
+Author URI  === http://luthfie.hol.es/?id=profile
 Version     === 0.8
 Description === This is the trying thing to do something better.\nThis plugin is just for Dixie CMS.\nI hope you enjoy the plugin.

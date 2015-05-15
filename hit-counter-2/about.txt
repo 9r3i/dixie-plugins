@@ -1,7 +1,7 @@
 Plugin Name === Hit Counter 2
 Plugin URI  === https://github.com/9r3i/plugins/tree/master/hit-counter-2
 Author      === Luthfie
-Author URI  === http://n8ro.hol.es/?id=profile
+Author URI  === http://luthfie.hol.es/?id=profile
 Version     === 2.0
 Description === Hit Counter is a sample plugin for Dixie CMS.\n- Count the site visitor\n- Set the option to get all visitor data\n- And review statistic (note: Dixie version >= 3.0.0)\n\nUsage: @[hit_counter2] \nPlace the tag above into text sidebar.
 Dixie Compare Version === 3.0.0

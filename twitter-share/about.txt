@@ -1,6 +1,6 @@
 Plugin Name === Twitter Share
 Plugin URI  === https://github.com/9r3i/plugins/tree/master/twitter-share
 Author      === Luthfie
-Author URI  === http://n8ro.hol.es/?id=profile
+Author URI  === http://luthfie.hol.es/?id=profile
 Version     === 2.0
 Description === Twitter Share plugin is a twitter buttons. Included by Luthfie from Twitter Developers.

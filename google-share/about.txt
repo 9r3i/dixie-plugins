@@ -1,6 +1,6 @@
 Plugin Name === Google+ Share
 Plugin URI  === https://github.com/9r3i/plugins/tree/master/google-share
 Author      === Luthfie
-Author URI  === http://n8ro.hol.es/?id=profile
+Author URI  === http://luthfie.hol.es/?id=profile
 Version     === 2.0
 Description === Google+ Share plugin is a Google+ button. Included by Luthfie from Google+ platform.
