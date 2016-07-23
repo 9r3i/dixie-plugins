@@ -22,7 +22,7 @@ function hit_counter2_sidebar_print($content){
     }else{
       $hasil = 'cannot connect into database';
     }
-    $print = '<link href="'.WWW.'plugins/hit-counter/style.css?v=1.0" type="text/css" rel="stylesheet" />';
+    $print = '<link href="'.WWW.'plugins/hit-counter-2/style.css?v=1.0" type="text/css" rel="stylesheet" />';
     $print .= '<div id="hit_counter_sidebar"><div style="clear:both;"></div>';
     $print .= '<div class="hit-counter-content" title="Total Hit: '.$hasil.'">';
     $print .= '<div class="hit-counter-label">Hit Counter:</div>';
