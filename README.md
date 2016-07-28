@@ -2,7 +2,7 @@
 Plugins for Dixie CMS
 
 [![Author](https://img.shields.io/badge/author-9r3i-lightgrey.svg)](https://github.com/9r3i)
-[![License](https://img.shields.io/github/license/9r3i/plugins.svg)](https://github.com/9r3i/plugins/blob/master/license.txt)
+[![License](https://img.shields.io/github/license/9r3i/dixie.svg)](https://github.com/9r3i/plugins/blob/master/license.txt)
 [![Forks](https://img.shields.io/github/forks/9r3i/plugins.svg)](https://github.com/9r3i/plugins/network)
 [![Stars](https://img.shields.io/github/stars/9r3i/plugins.svg)](https://github.com/9r3i/plugins/stargazers)
 [![Issues](https://img.shields.io/github/issues/9r3i/plugins.svg)](https://github.com/9r3i/plugins/issues)
